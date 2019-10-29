@@ -5,6 +5,11 @@
 - A shopkeeper is present in all the levels.
 
 <img width="676" alt="Screen Shot 2019-10-29 at 7 51 55 PM" src="https://user-images.githubusercontent.com/30482314/67817979-0bad9e00-fa86-11e9-9251-e153211f5705.png">
+- Player can buy the following items from the shopkeeper:
+1. Health portion: The portion will increase the player’s health.
+2. Speed portion: The portion will increase the player’s moving speed.
+3. Key to the Castle: This key will open the chest at the end of the game which is
+required to finish the level.
 
 <img width="674" alt="Screen Shot 2019-10-29 at 7 51 45 PM" src="https://user-images.githubusercontent.com/30482314/67817980-0c463480-fa86-11e9-8350-2769b155f502.png">
 
